@@ -1,0 +1,524 @@
+{
+    "AirRockeyRobot": {
+        "checkpoints": [
+            {
+                "steps": 179876,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-179876.onnx",
+                "reward": -3.0483679642118897,
+                "creation_time": 1709820828.9779243,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-179876.pt"
+                ]
+            },
+            {
+                "steps": 359860,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-359860.onnx",
+                "reward": -2.704414645574339,
+                "creation_time": 1709821107.570271,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-359860.pt"
+                ]
+            },
+            {
+                "steps": 539838,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-539838.onnx",
+                "reward": -2.1593961645738555,
+                "creation_time": 1709821399.978527,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-539838.pt"
+                ]
+            },
+            {
+                "steps": 719928,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-719928.onnx",
+                "reward": -1.9244098441505975,
+                "creation_time": 1709821697.901559,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-719928.pt"
+                ]
+            },
+            {
+                "steps": 899929,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-899929.onnx",
+                "reward": -1.3854738018825152,
+                "creation_time": 1709822025.7637131,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-899929.pt"
+                ]
+            },
+            {
+                "steps": 1079951,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-1079951.onnx",
+                "reward": -1.0240438339403934,
+                "creation_time": 1709822333.2765117,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-1079951.pt"
+                ]
+            },
+            {
+                "steps": 1259935,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-1259935.onnx",
+                "reward": -0.7285844986192851,
+                "creation_time": 1709822617.6832545,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-1259935.pt"
+                ]
+            },
+            {
+                "steps": 1439840,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-1439840.onnx",
+                "reward": -0.47190501343947455,
+                "creation_time": 1709822944.6393342,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-1439840.pt"
+                ]
+            },
+            {
+                "steps": 1619878,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-1619878.onnx",
+                "reward": -0.23328909620650554,
+                "creation_time": 1709823293.0256941,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-1619878.pt"
+                ]
+            },
+            {
+                "steps": 1799870,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-1799870.onnx",
+                "reward": -0.061307656163928886,
+                "creation_time": 1709823586.9097342,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-1799870.pt"
+                ]
+            },
+            {
+                "steps": 1979987,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-1979987.onnx",
+                "reward": -0.1097789139383369,
+                "creation_time": 1709823859.675303,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-1979987.pt"
+                ]
+            },
+            {
+                "steps": 2159992,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-2159992.onnx",
+                "reward": 0.21288212740922022,
+                "creation_time": 1709824132.2683744,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-2159992.pt"
+                ]
+            },
+            {
+                "steps": 2339990,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-2339990.onnx",
+                "reward": 0.43944879635628836,
+                "creation_time": 1709824406.526519,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-2339990.pt"
+                ]
+            },
+            {
+                "steps": 2519830,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-2519830.onnx",
+                "reward": 0.4557936936745652,
+                "creation_time": 1709824679.6910117,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-2519830.pt"
+                ]
+            },
+            {
+                "steps": 2699981,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-2699981.onnx",
+                "reward": 0.541339236959491,
+                "creation_time": 1709824952.39844,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-2699981.pt"
+                ]
+            },
+            {
+                "steps": 2879812,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-2879812.onnx",
+                "reward": 0.6123445543048707,
+                "creation_time": 1709825225.1783159,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-2879812.pt"
+                ]
+            },
+            {
+                "steps": 3059852,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-3059852.onnx",
+                "reward": 0.7067922056668391,
+                "creation_time": 1709825498.363669,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-3059852.pt"
+                ]
+            },
+            {
+                "steps": 3239943,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-3239943.onnx",
+                "reward": 0.856600138302483,
+                "creation_time": 1709825838.7321384,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-3239943.pt"
+                ]
+            },
+            {
+                "steps": 3419923,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-3419923.onnx",
+                "reward": 0.7227584699338133,
+                "creation_time": 1709826185.374863,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-3419923.pt"
+                ]
+            },
+            {
+                "steps": 3599917,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-3599917.onnx",
+                "reward": 0.8135235514820653,
+                "creation_time": 1709826486.193509,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-3599917.pt"
+                ]
+            },
+            {
+                "steps": 3779986,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-3779986.onnx",
+                "reward": 0.9113878515207127,
+                "creation_time": 1709826780.0683618,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-3779986.pt"
+                ]
+            },
+            {
+                "steps": 3959829,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-3959829.onnx",
+                "reward": 0.9288734587567201,
+                "creation_time": 1709827089.6777167,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-3959829.pt"
+                ]
+            },
+            {
+                "steps": 4139952,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-4139952.onnx",
+                "reward": 0.9836834295646949,
+                "creation_time": 1709827395.507879,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-4139952.pt"
+                ]
+            },
+            {
+                "steps": 4319995,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-4319995.onnx",
+                "reward": 0.9728402246666306,
+                "creation_time": 1709827689.9609053,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-4319995.pt"
+                ]
+            },
+            {
+                "steps": 4499999,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-4499999.onnx",
+                "reward": 1.0236113357752787,
+                "creation_time": 1709827992.0344214,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-4499999.pt"
+                ]
+            },
+            {
+                "steps": 4679846,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-4679846.onnx",
+                "reward": 0.9178837217828807,
+                "creation_time": 1709828311.69674,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-4679846.pt"
+                ]
+            },
+            {
+                "steps": 4859847,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-4859847.onnx",
+                "reward": 0.9935684163696491,
+                "creation_time": 1709828613.8091185,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-4859847.pt"
+                ]
+            },
+            {
+                "steps": 5039900,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-5039900.onnx",
+                "reward": 1.0491885336451843,
+                "creation_time": 1709828898.5870726,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-5039900.pt"
+                ]
+            },
+            {
+                "steps": 5219963,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-5219963.onnx",
+                "reward": 1.0224235610620789,
+                "creation_time": 1709829203.1561425,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-5219963.pt"
+                ]
+            },
+            {
+                "steps": 5399946,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-5399946.onnx",
+                "reward": 1.04127960340896,
+                "creation_time": 1709829504.8750849,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-5399946.pt"
+                ]
+            },
+            {
+                "steps": 5579976,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-5579976.onnx",
+                "reward": 1.2321644114090664,
+                "creation_time": 1709829814.6891806,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-5579976.pt"
+                ]
+            },
+            {
+                "steps": 5759942,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-5759942.onnx",
+                "reward": 1.0304261475801468,
+                "creation_time": 1709830099.6400104,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-5759942.pt"
+                ]
+            },
+            {
+                "steps": 5939960,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-5939960.onnx",
+                "reward": 1.4252533134753986,
+                "creation_time": 1709830385.849161,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-5939960.pt"
+                ]
+            },
+            {
+                "steps": 6119809,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-6119809.onnx",
+                "reward": 1.1844429822344529,
+                "creation_time": 1709830670.3741307,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-6119809.pt"
+                ]
+            },
+            {
+                "steps": 6299939,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-6299939.onnx",
+                "reward": 1.302614121237299,
+                "creation_time": 1709831019.8452256,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-6299939.pt"
+                ]
+            },
+            {
+                "steps": 6479843,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-6479843.onnx",
+                "reward": 0.9182976733304953,
+                "creation_time": 1709831356.5040498,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-6479843.pt"
+                ]
+            },
+            {
+                "steps": 6659973,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-6659973.onnx",
+                "reward": 1.3702781090778964,
+                "creation_time": 1709831627.503282,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-6659973.pt"
+                ]
+            },
+            {
+                "steps": 6839896,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-6839896.onnx",
+                "reward": 1.2149398736131023,
+                "creation_time": 1709831889.5618606,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-6839896.pt"
+                ]
+            },
+            {
+                "steps": 7019975,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-7019975.onnx",
+                "reward": 1.2639412105911307,
+                "creation_time": 1709832152.5010767,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-7019975.pt"
+                ]
+            },
+            {
+                "steps": 7199920,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-7199920.onnx",
+                "reward": 1.2310500017234258,
+                "creation_time": 1709832413.856522,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-7199920.pt"
+                ]
+            },
+            {
+                "steps": 7379835,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-7379835.onnx",
+                "reward": 1.542572226438482,
+                "creation_time": 1709832675.303141,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-7379835.pt"
+                ]
+            },
+            {
+                "steps": 7559888,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-7559888.onnx",
+                "reward": 1.2438910221871065,
+                "creation_time": 1709832940.9656384,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-7559888.pt"
+                ]
+            },
+            {
+                "steps": 7739848,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-7739848.onnx",
+                "reward": 1.4840601229667663,
+                "creation_time": 1709833229.5128703,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-7739848.pt"
+                ]
+            },
+            {
+                "steps": 7919989,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-7919989.onnx",
+                "reward": 1.1401787189145882,
+                "creation_time": 1709833510.4861991,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-7919989.pt"
+                ]
+            },
+            {
+                "steps": 8099831,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-8099831.onnx",
+                "reward": 1.5274825893169226,
+                "creation_time": 1709833791.3446252,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-8099831.pt"
+                ]
+            },
+            {
+                "steps": 8279860,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-8279860.onnx",
+                "reward": 1.654391425392694,
+                "creation_time": 1709834090.9688315,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-8279860.pt"
+                ]
+            },
+            {
+                "steps": 8459890,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-8459890.onnx",
+                "reward": 1.2935145041772298,
+                "creation_time": 1709834393.2807148,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-8459890.pt"
+                ]
+            },
+            {
+                "steps": 8639978,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-8639978.onnx",
+                "reward": 1.5005764825449837,
+                "creation_time": 1709834688.7160292,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-8639978.pt"
+                ]
+            },
+            {
+                "steps": 8819946,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-8819946.onnx",
+                "reward": 1.4802750801598583,
+                "creation_time": 1709834994.4312267,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-8819946.pt"
+                ]
+            },
+            {
+                "steps": 8999985,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-8999985.onnx",
+                "reward": 1.0937628353896893,
+                "creation_time": 1709835278.8078778,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-8999985.pt"
+                ]
+            },
+            {
+                "steps": 9179841,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-9179841.onnx",
+                "reward": 1.8050520104666552,
+                "creation_time": 1709835560.844377,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-9179841.pt"
+                ]
+            },
+            {
+                "steps": 9359883,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-9359883.onnx",
+                "reward": 1.1523003686558118,
+                "creation_time": 1709835842.42267,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-9359883.pt"
+                ]
+            },
+            {
+                "steps": 9539824,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-9539824.onnx",
+                "reward": 1.8519808053970337,
+                "creation_time": 1709836127.6665854,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-9539824.pt"
+                ]
+            },
+            {
+                "steps": 9719819,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-9719819.onnx",
+                "reward": 1.1560449600219727,
+                "creation_time": 1709836416.240993,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-9719819.pt"
+                ]
+            },
+            {
+                "steps": 9899967,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-9899967.onnx",
+                "reward": 1.279183536241645,
+                "creation_time": 1709836697.5032551,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-9899967.pt"
+                ]
+            },
+            {
+                "steps": 10000099,
+                "file_path": "results/airrockey/AirRockeyRobot/AirRockeyRobot-10000099.onnx",
+                "reward": 1.150307761154313,
+                "creation_time": 1709836861.6237617,
+                "auxillary_file_paths": [
+                    "results/airrockey/AirRockeyRobot/AirRockeyRobot-10000099.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000099,
+            "file_path": "results/airrockey/AirRockeyRobot.onnx",
+            "reward": 1.150307761154313,
+            "creation_time": 1709836861.6237617,
+            "auxillary_file_paths": [
+                "results/airrockey/AirRockeyRobot/AirRockeyRobot-10000099.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.8.2+cu111"
+    }
+}
